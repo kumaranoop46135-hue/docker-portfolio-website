@@ -126,7 +126,7 @@ docker ps
 
 ## Open Website
 
-http://YOUR_PUBLIC_IP
+http://15.223.247.14:8080
 
 ---
 
