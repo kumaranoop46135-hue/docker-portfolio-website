@@ -45,6 +45,8 @@ The project also includes a separate Nginx Reverse Proxy configuration using Doc
 - Docker Compose
 - Nginx
 - AWS EC2
+- <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/70de6eaa-1a2d-4007-ac16-88f3fda3af57" />
+
 - Ubuntu Linux
 
 ---
@@ -128,7 +130,11 @@ http://YOUR_PUBLIC_IP
 
 ---
 
-## Docker Commands Used
+## Docker Commands Used 
+
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/d146cd9f-6e0c-4b1f-bece-c01c3c89778a" />
+
+<img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/f1bde246-5cdb-44a8-9d22-9d6695e277c8" />
 
 ### Build Image
 
@@ -195,7 +201,9 @@ After completing this project, I learned
 - Contact Form
 
 ---
+<img width="1898" height="1078" alt="image" src="https://github.com/user-attachments/assets/7c24c787-05dc-4dbd-9f22-fa96abf2e184" />
 
+---
 ## Author
 
 Anoop Kumar
